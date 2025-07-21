@@ -1,20 +1,20 @@
-<h1 align="left">👋 Hola, soy RonalGSDev</h1>
+<h1 align="left">👋 Hi, I'm RonalGSDev</h1>
 
 ###
 
-<h2 align="left">Sobre mí</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">💻 Mi nombre es Ronal Gómez, soy un apasionado del desarrollo de software, actualmente cursando Ingeniería en Sistemas y formándome como Full Stack Developer. Estoy dedicado a construir soluciones eficientes y funcionales que marquen la diferencia.</p>
+<p align="left">💻 My name is Ronal Gómez. I'm passionate about software development, currently studying Systems Engineering and training as a Full Stack Developer. I am dedicated to building efficient and functional solutions that make a difference.</p>
 
 ###
 
-<p align="left">🛠️ Habilidades técnicas:<br>- Frontend: HTML, CSS, JavaScript, React.<br>- Backend: Java, Node.js, C++, C#.<br>- Bases de datos: MySQL, phpMyAdmin, SQL Server.<br>- Herramientas de desarrollo: Git, GitHub, Visual Studio Code.</p>
+<p align="left">🛠️ Technical Skills:<br>- Frontend: HTML, CSS, JavaScript, React.<br>- Backend: Java, Node.js, C++, C#.<br>- Databases: MySQL, phpMyAdmin, SQL Server.<br>- Development tools: Git, GitHub, Visual Studio Code.</p>
 
 ###
 
-<p align="left">🎯 Objetivos actuales:<br>💡 Mejorar mis habilidades en React para construir interfaces de usuario dinámicas y eficientes.<br>🌐 Desarrollar aplicaciones Full Stack robustas y escalables.<br>🔭 Aplicar mis conocimientos en bases de datos y algoritmos para optimizar sistemas.</p>
+<p align="left">🎯 Current Goals:<br>💡 Improve my skills in React to build dynamic and efficient user interfaces.<br>🌐 Develop robust and scalable Full Stack applications.<br>🔭 Apply my knowledge of databases and algorithms to optimize systems.</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">Mis herramientas de desarrollo</h2>
+<h2 align="left">My Development Tools</h2>
 
 ###
 
@@ -63,8 +63,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RonalGSDev&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2&custom_title=Lenguajes" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RonalGSDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2&custom_title=Top Languages" height="150" alt="languages graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RonalGSDev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
