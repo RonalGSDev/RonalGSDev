@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🛠️ Technical Skills:<br>- Frontend: HTML, CSS, JavaScript, React.<br>- Backend: Java, Node.js, C++, C#.<br>- Databases: MySQL, phpMyAdmin, SQL Server.<br>- Development tools: Git, GitHub, Visual Studio Code.</p>
+<p align="left">🛠️ Technical Skills:<br>- Frontend: HTML, CSS, JavaScript, React.<br>- Backend: Java, Node.js, C++, C#.<br>- Databases: MySQL, phpMyAdmin, SQL Server, Mongo DB.<br>- Development tools: Git, GitHub, Visual Studio Code.</p>
 
 ###
 
