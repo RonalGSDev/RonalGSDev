@@ -6,6 +6,10 @@
 
 ###
 
+<img align="right" height="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZvc2pidXM4OHQ4d2hxazFveTRhcXh5cXh0MTUweGptZnJpYXJkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"  />
+
+###
+
 <p align="left">💻 My name is Ronal Gómez. I'm passionate about software development, currently studying Systems Engineering and training as a Full Stack Developer. I am dedicated to building efficient and functional solutions that make a difference.</p>
 
 ###
@@ -15,6 +19,10 @@
 ###
 
 <p align="left">🎯 Current Goals:<br>💡 Improve my skills in React to build dynamic and efficient user interfaces.<br>🌐 Develop robust and scalable Full Stack applications.<br>🔭 Apply my knowledge of databases and algorithms to optimize systems.</p>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -54,6 +62,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
 </div>
 
 ###
@@ -62,3 +74,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RonalGSDev&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2&custom_title=Lenguajes" height="150" alt="languages graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RonalGSDev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RonalGSDev/RonalGSDev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RonalGSDev/RonalGSDev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RonalGSDev/RonalGSDev/output/pacman-contribution-graph.svg">
+</picture>
+
+###
